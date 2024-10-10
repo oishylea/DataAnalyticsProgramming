@@ -1,4 +1,6 @@
-# DataAnalyticsProgramming
+  <p align="center"><img src="Document/header.jpeg" alt="Header" width="120%" /></p>
+
+# Data Analytics Programming
 
 ## Overview
 This repository, created for **SECP3223 Data Analytics Programming** , contains resources related to data analytics programming, including data visualization techniques, data manipulation, and analysis using Python.
